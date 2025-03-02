@@ -1,0 +1,13 @@
+U08BTPRSAHZ: がチャンネルのトピックを消去しました (timestamp: 2025-02-28 07:57:11)
+U08C1R0819A: Here is the file: (timestamp: 2025-02-28 07:22:32)
+U08C1R0819A: Here is the file: (timestamp: 2025-02-28 06:01:13)
+U08BTPRSAHZ: <https://youtu.be/3H-pAv0nWvQ?si=gEsIaRL9ztrAeigV|https://youtu.be/3H-pAv0nWvQ?si=gEsIaRL9ztrAeigV>
+これは便利そうなサービスだね。実用性ありそう (timestamp: 2025-02-27 13:11:38)
+U08BTPRSAHZ: <https://github.blog/changelog/2025-02-26-code-review-in-github-copilot-is-now-in-public-preview/?s=31|https://github.blog/changelog/2025-02-26-code-review-in-github-copilot-is-now-in-public-preview/?s=31> (timestamp: 2025-02-27 11:33:00)
+U08BTPRSAHZ: <https://www.nikkei.com/article/DGXZQOUC285BD0Y5A120C2000000/?s=31|https://www.nikkei.com/article/DGXZQOUC285BD0Y5A120C2000000/?s=31>
+ほしい (timestamp: 2025-02-27 11:03:08)
+U08BTPRSAHZ: いやー素晴らしいな〜 (timestamp: 2025-02-27 09:07:28)
+U08BTPRSAHZ:  (timestamp: 2025-02-27 09:07:05)
+U08BTPRSAHZ: ```ソースコードを確認し、現在test_main.pyでテストされていないロジックを特定して下さい。
+テストされていないロジックについて、テストケースを追加し、PASSすることを確認して下さい。``` (timestamp: 2025-02-27 08:59:00)
+U08BTPRSAHZ: NVIDIA の今期の好決算は分かりきっているのだが、それよりもシンガポール向けの GPU 売上がどうなるか (timestamp: 2025-02-27 06:36:32)
