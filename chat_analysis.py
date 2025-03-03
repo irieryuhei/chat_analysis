@@ -283,13 +283,13 @@ class MessageFormatter:
         Returns:
             Formatted analysis results.
         """
-        content = "=== 日付ごとの感情分析 ===\n"
-        
-        for date in sorted(emotion_analysis.keys()):
-            content += f"\n日付: {date}\n"
-            content += f"{emotion_analysis[date]}\n"
-        
-        return content
+    286        content = "=== 日付ごとの感情分析 ===\n"
+    287
+    288        for date in sorted(emotion_analysis.keys()):
+    289            content += f"\n日付: {date}\n"
+    290            content += f"{emotion_analysis[date]}\n"  # Keep original for now, may need more parsing
+    291
+    292        return content
 
 
 class EmotionAnalyzer:
